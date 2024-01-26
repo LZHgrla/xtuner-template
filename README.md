@@ -67,7 +67,7 @@ xtuner chat ${NAME_OR_PATH_TO_LLM} [optional arguments]
 Optional arguments:
 
 - `--adapter`: Specify the loaded adapter name or path.
-- `--prompt-template`: Specify a prompt template. This should align with the LLM of dialogue.
+- `--prompt-template`: Specify the prompt template. This should align with the LLM of dialogue.
 - `--system`: Specify the system text of dialogue.
 - `--bits {4,8,None}`: Specify the LLM's bits.
 - `--no-streamer`: Whether to remove the streamer.
