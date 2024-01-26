@@ -42,17 +42,17 @@ XTuner-Template is a template repository that provides a starting point for pre-
 
 1. Run
 
-  ```shell
-  # On a single GPU
-  xtuner train ${YOUR_CONFIG} --deepspeed deepspeed_zero2
-  # On multiple GPUs
-  (DIST) NPROC_PER_NODE=${GPU_NUM} xtuner train ${YOUR_CONFIG} --deepspeed deepspeed_zero2
-  (SLURM) srun ${SRUN_ARGS} xtuner train ${YOUR_CONFIG} --launcher slurm --deepspeed deepspeed_zero2
-  ```
+      ```shell
+      # On a single GPU
+      xtuner train ${YOUR_CONFIG} --deepspeed deepspeed_zero2
+      # On multiple GPUs
+      (DIST) NPROC_PER_NODE=${GPU_NUM} xtuner train ${YOUR_CONFIG} --deepspeed deepspeed_zero2
+      (SLURM) srun ${SRUN_ARGS} xtuner train ${YOUR_CONFIG} --launcher slurm --deepspeed deepspeed_zero2
+      ```
+    
+      - `--deepspeed` means using [DeepSpeed](https://github.com/microsoft/DeepSpeed) 🚀 to optimize the training. XTuner comes with several integrated strategies including ZeRO-1, ZeRO-2, and ZeRO-3. If you wish to disable this feature, simply remove this argument.
 
-  - `--deepspeed` means using [DeepSpeed](https://github.com/microsoft/DeepSpeed) 🚀 to optimize the training. XTuner comes with several integrated strategies including ZeRO-1, ZeRO-2, and ZeRO-3. If you wish to disable this feature, simply remove this argument.
-
-2. Convert the saved .pth model (if using DeepSpeed, it will be a directory) to HuggingFace model, by
+2. Convert the saved `.pth` model (if using DeepSpeed, it will be a directory) to HuggingFace model, by
 
      ```shell
      xtuner convert pth_to_hf ${YOUR_CONFIG} ${PTH} ${SAVE_PATH}
