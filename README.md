@@ -6,6 +6,8 @@ English | [简体中文](README_zh-CN.md)
 
 XTuner-Template is a template repository that provides a starting point for pre-training / fine-tuning Large Models using [XTuner](https://github.com/InternLM/xtuner) toolkit.
 
+TODO
+
 ## Quick Start
 
 **⚠️ Note: Developers using this template repository, please customize this section according to your own codes.**
