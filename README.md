@@ -10,7 +10,7 @@ In addition to supporting the basic functionalities of the template, it also com
 
 - [Pre-commit](./.pre-commit-config.yaml) check
 - [Workflows](./.github/workflows) for [GitHub Actions](https://github.com/InternLM/xtuner-template/actions)
-- [Issues templates](./.github/ISSUE_TEMPLATE), and [Pull requests (PRs) templates](.github/pull_request_template.md)
+- [Issues template](./.github/ISSUE_TEMPLATE), and [Pull requests (PRs) template](.github/pull_request_template.md)
 - ...
 
 ## Quick Start
