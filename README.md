@@ -2,12 +2,12 @@
   <img src="https://github.com/InternLM/lmdeploy/assets/36994684/0cf8d00f-e86b-40ba-9b54-dc8f1bc6c8d8" width="600"/>
   <br /><br />
 
-![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/xtuner-template?style=social)
-![license](https://img.shields.io/github/license/InternLM/xtuner-template.svg)
-[![issue resolution](https://img.shields.io/github/issues-closed-raw/InternLM/xtuner-template)](https://github.com/InternLM/xtuner-template/issues)
-[![open issues](https://img.shields.io/github/issues-raw/InternLM/xtuner-template)](https://github.com/InternLM/xtuner-template/issues)
+![GitHub Repo stars](https://img.shields.io/github/stars/LZHgrla/xtuner-template?style=social)
+![license](https://img.shields.io/github/license/LZHgrla/xtuner-template.svg)
+[![issue resolution](https://img.shields.io/github/issues-closed-raw/LZHgrla/xtuner-template)](https://github.com/LZHgrla/xtuner-template/issues)
+[![open issues](https://img.shields.io/github/issues-raw/LZHgrla/xtuner-template)](https://github.com/LZHgrla/xtuner-template/issues)
 
-👋 join us on [![Static Badge](https://img.shields.io/badge/-grey?style=social&logo=wechat&label=WeChat)](https://cdn.vansin.top/internlm/xtuner.jpg)
+👋 join us on [![Static Badge](https://img.shields.io/badge/-grey?style=social&logo=wechat&label=WeChat)](https://cdn.vansin.top/LZHgrla/xtuner.jpg)
 [![Static Badge](https://img.shields.io/badge/-grey?style=social&logo=twitter&label=Twitter)](https://twitter.com/intern_lm)
 [![Static Badge](https://img.shields.io/badge/-grey?style=social&logo=discord&label=Discord)](https://discord.gg/xa29JuW87d)
 
@@ -91,3 +91,5 @@ Optional arguments:
 - `--bits {4,8,None}`: Specify the LLM's bits.
 - `--no-streamer`: Whether to remove the streamer.
 - For more information, please run `xtuner chat -h`
+
+> **⚠️ Note: Last but foremost, don't forget to update zh-CN README :)**
