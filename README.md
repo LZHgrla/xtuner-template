@@ -99,7 +99,7 @@ Optional arguments:
 
 ## License
 
-> **⚠️ Note: Developers using this template repository, please feel free to modify License as you wish!**
+> **⚠️ Note: Developers using this template repository, feel free to modify License as you wish!**
 
 This repository is released under the [Apache License 2.0](LICENSE).
 
