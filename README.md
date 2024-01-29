@@ -11,7 +11,6 @@ In addition to supporting the basic functionalities of the template, it also com
 - [Pre-commit](./.pre-commit-config.yaml) check
 - [Workflows](./.github/workflows) of [GitHub Actions](https://github.com/InternLM/xtuner-template/actions)
 - [Issue template](./.github/ISSUE_TEMPLATE), and [Pull request (PR) template](.github/pull_request_template.md)
-- ...
 
 ## Quick Start
 
