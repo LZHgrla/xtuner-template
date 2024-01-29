@@ -104,4 +104,4 @@ Optional arguments:
 This repository is released under the [Apache License 2.0](LICENSE).
 
 
-> **⚠️ Note: Last but foremost, don't forget to update zh-CN README :)**
+> **⚠️ Note: Last but foremost, don't forget to update [zh-CN README](./README_zh-CN.md) :)**
