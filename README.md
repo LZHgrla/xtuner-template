@@ -21,18 +21,15 @@ English | [简体中文](README_zh-CN.md)
 
 > **⚠️ Note: Developers can replace the logo at the top of this README by changing the image path. Likewise, badges can be replaced by modifying the URL to match their username and repository name.**
 
-
 ## Introduction
 
 XTuner-Template is a template repository that provides a starting point for pre-training / fine-tuning Large Models using [XTuner](https://github.com/InternLM/xtuner) toolkit.
-
 
 In addition to supporting the basic functionalities of the template, it also comes with a suite of built-in Git / GitHub automation features:
 
 - [Pre-commit](./.pre-commit-config.yaml) check
 - [Workflows](./.github/workflows) of [GitHub Actions](https://github.com/InternLM/xtuner-template/actions)
 - [Issue template](./.github/ISSUE_TEMPLATE), and [Pull request (PR) template](.github/pull_request_template.md)
-
 
 ## Quick Start
 
