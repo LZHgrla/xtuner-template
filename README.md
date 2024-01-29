@@ -19,7 +19,7 @@ English | [简体中文](README_zh-CN.md)
 
 </div>
 
-> Developers can replace the logo at the top of this README by changing the image path. Likewise, badges can be replaced by modifying the URL to match their username and repository name.
+> **⚠️ Note: Developers can replace the logo at the top of this README by changing the image path. Likewise, badges can be replaced by modifying the URL to match their username and repository name.**
 
 
 ## Introduction
