@@ -1,10 +1,31 @@
-# XTuner-Template 🛞
+<div align="center">
+  <img src="https://github.com/InternLM/lmdeploy/assets/36994684/0cf8d00f-e86b-40ba-9b54-dc8f1bc6c8d8" width="600"/>
+  <br /><br />
+
+![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/xtuner?style=social)
+![license](https://img.shields.io/github/license/InternLM/xtuner.svg)
+[![issue resolution](https://img.shields.io/github/issues-closed-raw/InternLM/xtuner)](https://github.com/InternLM/xtuner/issues)
+[![open issues](https://img.shields.io/github/issues-raw/InternLM/xtuner)](https://github.com/InternLM/xtuner/issues)
+
+👋 join us on [![Static Badge](https://img.shields.io/badge/-grey?style=social&logo=wechat&label=WeChat)](https://cdn.vansin.top/internlm/xtuner.jpg)
+[![Static Badge](https://img.shields.io/badge/-grey?style=social&logo=twitter&label=Twitter)](https://twitter.com/intern_lm)
+[![Static Badge](https://img.shields.io/badge/-grey?style=social&logo=discord&label=Discord)](https://discord.gg/xa29JuW87d)
+
+🔍 Explore our models on
+[![Static Badge](https://img.shields.io/badge/-gery?style=social&label=🤗%20Huggingface)](https://huggingface.co/xtuner)
+[![Static Badge](https://img.shields.io/badge/-gery?style=social&label=🤖%20ModelScope)](https://www.modelscope.cn/organization/xtuner)
 
 English | [简体中文](README_zh-CN.md)
+
+</div>
+
+> Developers can replace the logo at the top of this README by changing the image path. Likewise, badges can be replaced by modifying the URL to match their username and repository name.
+
 
 ## Introduction
 
 XTuner-Template is a template repository that provides a starting point for pre-training / fine-tuning Large Models using [XTuner](https://github.com/InternLM/xtuner) toolkit.
+
 
 In addition to supporting the basic functionalities of the template, it also comes with a suite of built-in Git / GitHub automation features:
 
@@ -12,9 +33,10 @@ In addition to supporting the basic functionalities of the template, it also com
 - [Workflows](./.github/workflows) of [GitHub Actions](https://github.com/InternLM/xtuner-template/actions)
 - [Issue template](./.github/ISSUE_TEMPLATE), and [Pull request (PR) template](.github/pull_request_template.md)
 
+
 ## Quick Start
 
-**⚠️ Note: Developers using this template repository, please customize this section according to your own codes.**
+> **⚠️ Note: Developers using this template repository, please customize this section according to your own codes.**
 
 ### Installation
 
