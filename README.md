@@ -37,7 +37,7 @@ In addition to supporting the basic functionalities of the template, it also com
 
 ## Quick Start
 
-> **⚠️ Note: Developers using this template repository, please customize this section according to your own codes.**
+> **⚠️ Note: Please customize this section according to your own codes.**
 
 ### Installation
 
@@ -99,7 +99,7 @@ Optional arguments:
 
 ## License
 
-> **⚠️ Note: Developers using this template repository, feel free to modify License as you wish!**
+> **⚠️ Note: Feel free to modify License as you wish!**
 
 This repository is released under the [Apache License 2.0](LICENSE).
 
