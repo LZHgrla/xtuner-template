@@ -23,8 +23,6 @@ English | [简体中文](README_zh-CN.md)
 
 > **⚠️ Note: Developers can replace the logo at the top of this README by changing the image path. Likewise, badges can be replaced by modifying the URL to match their username and repository name.**
 
-
-
 ## Introduction
 
 XTuner-Template is a template repository that provides a starting point for pre-training / fine-tuning Large Models using [XTuner](https://github.com/InternLM/xtuner) toolkit.
@@ -96,12 +94,10 @@ Optional arguments:
 - `--no-streamer`: Whether to remove the streamer.
 - For more information, please run `xtuner chat -h`
 
-
 ## License
 
 > **⚠️ Note: Feel free to modify License as you wish!**
 
 This repository is released under the [Apache License 2.0](LICENSE).
-
 
 > **⚠️ Note: Last but foremost, don't forget to update [zh-CN README](./README_zh-CN.md) :)**

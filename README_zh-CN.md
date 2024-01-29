@@ -23,8 +23,6 @@
 
 > **⚠️ 注意：开发者可以通过更新图片路径来替换 README 上方的 LOGO；同时，也可以通过更新 Badges URL 中的用户名和仓库名来更新 Badges。**
 
-
-
 ## 介绍
 
 XTuner-Template 是一个模版仓库，提供了一个使用 [XTuner](https://github.com/InternLM/xtuner) 工具库训练大模型的“起点”。
@@ -95,7 +93,6 @@ xtuner chat ${NAME_OR_PATH_TO_LLM} [optional arguments]
 - `--bits {4,8,None}`: 指定 LLM 的比特数。默认为 fp16。
 - `--no-streamer`: 是否移除 streamer。
 - 更多信息，请执行 `xtuner chat -h` 查看。
-
 
 ## 开源许可证
 
