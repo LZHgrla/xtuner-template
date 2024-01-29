@@ -20,6 +20,8 @@ English | [简体中文](README_zh-CN.md)
 </div>
 
 > **⚠️ Note: Developers can replace the logo at the top of this README by changing the image path. Likewise, badges can be replaced by modifying the URL to match their username and repository name.**
+> 
+> **⚠️ Note: Please delete all "Note" texts before releasing your project!**
 
 ## Introduction
 
@@ -91,5 +93,13 @@ Optional arguments:
 - `--bits {4,8,None}`: Specify the LLM's bits.
 - `--no-streamer`: Whether to remove the streamer.
 - For more information, please run `xtuner chat -h`
+
+
+## License
+
+> **⚠️ Note: Developers using this template repository, please feel free to modify License as you wish!**
+
+This repository is released under the [Apache License 2.0](LICENSE).
+
 
 > **⚠️ Note: Last but foremost, don't forget to update zh-CN README :)**
