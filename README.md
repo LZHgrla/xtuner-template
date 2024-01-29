@@ -9,7 +9,7 @@ XTuner-Template is a template repository that provides a starting point for pre-
 In addition to supporting the basic functionalities of the template, it also comes with a suite of built-in Git / GitHub automation features:
 
 - [Pre-commit](./.pre-commit-config.yaml) check
-- [Workflows](./.github/workflows) for [GitHub Actions](https://github.com/InternLM/xtuner-template/actions)
+- [Workflows](./.github/workflows) of [GitHub Actions](https://github.com/InternLM/xtuner-template/actions)
 - [Issue template](./.github/ISSUE_TEMPLATE), and [Pull request (PR) template](.github/pull_request_template.md)
 - ...
 
