@@ -2,10 +2,10 @@
   <img src="https://github.com/InternLM/lmdeploy/assets/36994684/0cf8d00f-e86b-40ba-9b54-dc8f1bc6c8d8" width="600"/>
   <br /><br />
 
-![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/xtuner?style=social)
-![license](https://img.shields.io/github/license/InternLM/xtuner.svg)
-[![issue resolution](https://img.shields.io/github/issues-closed-raw/InternLM/xtuner)](https://github.com/InternLM/xtuner/issues)
-[![open issues](https://img.shields.io/github/issues-raw/InternLM/xtuner)](https://github.com/InternLM/xtuner/issues)
+![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/xtuner-template?style=social)
+![license](https://img.shields.io/github/license/InternLM/xtuner-template.svg)
+[![issue resolution](https://img.shields.io/github/issues-closed-raw/InternLM/xtuner-template)](https://github.com/InternLM/xtuner-template/issues)
+[![open issues](https://img.shields.io/github/issues-raw/InternLM/xtuner-template)](https://github.com/InternLM/xtuner-template/issues)
 
 👋 join us on [![Static Badge](https://img.shields.io/badge/-grey?style=social&logo=wechat&label=WeChat)](https://cdn.vansin.top/internlm/xtuner.jpg)
 [![Static Badge](https://img.shields.io/badge/-grey?style=social&logo=twitter&label=Twitter)](https://twitter.com/intern_lm)
