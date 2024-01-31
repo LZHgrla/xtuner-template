@@ -19,10 +19,10 @@ English | [简体中文](README_zh-CN.md)
 
 </div>
 
-> [!IMPORTANT] 
+> \[!IMPORTANT\]
 > Please delete all "Blockquote" texts before releasing your project!
 
-> [!TIP]
+> \[!TIP\]
 > Developers can replace the logo at the top of this README by changing the image path. Likewise, badges can be replaced by modifying the URL to match their username and repository name.
 
 ## Introduction
@@ -37,7 +37,7 @@ In addition to supporting the basic functionalities of the template, it also com
 
 ## Quick Start
 
-> [!TIP] 
+> \[!TIP\]
 > Please customize this section according to your own codes.
 
 ### Installation
@@ -99,10 +99,10 @@ Optional arguments:
 
 ## License
 
-> [!TIP] 
+> \[!TIP\]
 > Feel free to modify License as you wish!
 
 This repository is released under the [Apache License 2.0](LICENSE).
 
-> [!IMPORTANT]
+> \[!IMPORTANT\]
 > Last but foremost, don't forget to update [README_zh-CN](./README_zh-CN.md) :)

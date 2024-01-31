@@ -19,10 +19,10 @@
 
 </div>
 
-> [!IMPORTANT] 
+> \[!IMPORTANT\]
 > 请在发布您的项目前，删除所有“引用快”文本！
 
-> [!TIP]
+> \[!TIP\]
 > 开发者可以通过更新图片路径来替换 README 上方的 LOGO；同时，也可以通过更新 Badges URL 中的用户名和仓库名来更新 Badges。
 
 ## 介绍
@@ -37,7 +37,7 @@ XTuner-Template 是一个模版仓库，提供了一个使用 [XTuner](https://g
 
 ## 快速上手
 
-> [!TIP]
+> \[!TIP\]
 > 请根据您的代码修改该章节。
 
 ### 安装
@@ -99,10 +99,10 @@ xtuner chat ${NAME_OR_PATH_TO_LLM} [optional arguments]
 
 ## 开源许可证
 
-> [!TIP]
+> \[!TIP\]
 > 请根据您的需求更改许可证！
 
 该项目采用 [Apache License 2.0 开源许可证](LICENSE)。
 
-> [!IMPORTANT] 
+> \[!IMPORTANT\]
 > 请不要忘记修改[英文 README](./README.md)！
